@@ -1,0 +1,1 @@
+The feature does not work. Both me and Chatgpt were unable to get this feature to work. It does respond a little to a changing screen size but not enough to satisfy the requirements.
